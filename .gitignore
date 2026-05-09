@@ -1,0 +1,7 @@
+*.safetensors
+.mdl
+*.pth
+*.lock
+._____temp/
+.claude/
+
